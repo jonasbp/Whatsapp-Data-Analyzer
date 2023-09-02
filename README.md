@@ -1,4 +1,4 @@
-# Whatsapp-Data-Analyzer
+# Whatsapp-Data-Analyzer 🧪
 Projeto focado em aprender mais sobre análise de dados usando Pandas e Python.
 
 A aplicação parte de uma conversa exportada do Whatsapp e filtra por:
